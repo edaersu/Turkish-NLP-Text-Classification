@@ -12,9 +12,9 @@ Dosyaların görünümü şu şekilde:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Zemberek java kodu içerisindeki TurkishMorphology, TurkishSpellChecker, TurkishSentenceNormalizer classlarının methodları kullanıldı.
 Zemberek sonucundaki çıktı: <br><br>
-<img src="github/zemberek.jpg" align="left">
-<br><br>
-Pre-trained bert modeli import edildikten sonra bazı denemelerin sonuçları<br>
+<img src="github/zemberek.jpg" align="left"><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+Pre-trained bert modeli import edildikten sonra bazı denemelerin sonuçları<br><br>
 <img src="github/bert.jpg" align="left">
 
 
