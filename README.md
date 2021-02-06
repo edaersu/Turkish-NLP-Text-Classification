@@ -14,6 +14,8 @@ Zemberek java kodu içerisindeki TurkishMorphology, TurkishSpellChecker, Turkish
 Zemberek sonucundaki çıktı: <br><br>
 <img src="github/zemberek.jpg" align="left"><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
+
+## Pre-trained Bert
 Pre-trained bert modeli import edildikten sonra bazı denemelerin sonuçları<br><br>
 <img src="github/bert.jpg" align="left">
 
