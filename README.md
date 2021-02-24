@@ -1,4 +1,4 @@
-# NLP- Sentiment Analysis
+# NLP- Text Classification
 
 ## PreProcessing
 Her bir satır aşağıdaki gibi noktalama işaretlerinden, özel karakterlerden temizlendi ve varsa link, mail adresi gibi bağlantılar kaldırıldı.<br><br>
