@@ -18,6 +18,7 @@ Zemberek sonucundaki çıktı: <br><br>
 ## Pre-trained Bert
 Pre-trained bert modeli import edildikten sonra bazı denemelerin sonuçları<br><br>
 <img src="github/bert.jpg" align="left">
+<br><br><br>
 
 ## Labeling Uygulamaları
 Etiketsiz olan datayı etiketlemek için dataya uygun olarak hazırlanmış taglerini belirlediğimiz masaüstü ve mobil platformlarda kullanılabilir uygulamalar<br><br><br>
@@ -28,6 +29,6 @@ Etiketsiz olan datayı etiketlemek için dataya uygun olarak hazırlanmış tagl
 
 ### Mobile
 <br>
-<img src="github/mobile.gif">
+<img src="github/mobile.gif" align="center">
 
 
